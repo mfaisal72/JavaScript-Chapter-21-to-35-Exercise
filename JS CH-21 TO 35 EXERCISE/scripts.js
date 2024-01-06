@@ -8,11 +8,15 @@ var allLower = userInput.toLowerCase();
 
 //2. Convert the string represented by x to lower-case and assign the result to the same variable.
 
+var x = "HELLO WORLD";
 x = x.toLowerCase();
+alert(x);
 
 //3. Convert the string represented by y to upper-case and assign the result to the same variable
 
+var y = "hello world";
 y = y.toUpperCase();
+alert(y);
 
 //4. Convert the string represented by a variable to lower-case and assign the result to a second variable that hasn't been declared beforehand.
 
